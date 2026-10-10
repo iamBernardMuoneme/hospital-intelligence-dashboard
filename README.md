@@ -61,16 +61,6 @@ The demonstration scenario includes the following headline figures:
 
 Microsoft Excel was used to develop the dashboard and present the analysis.
 
-The workbook may incorporate Excel formulas, PivotTables, charts, slicers, or other Excel features, depending on the final implementation.
-
-## How to Use the Dashboard
-
-1. Download the Excel workbook from this repository.
-2. Open it using Microsoft Excel.
-3. Review the dashboard and available visualisations.
-4. Use any included filters or slicers to explore the data.
-5. Review the underlying data and KPI definitions before interpreting the results.
-
 ## Data Disclaimer
 
 This dashboard is presented as a portfolio project demonstrating the application of Microsoft Excel to hospital business intelligence and performance monitoring.
