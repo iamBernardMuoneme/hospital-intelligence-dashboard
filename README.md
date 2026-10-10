@@ -83,7 +83,7 @@ This dashboard is presented as a portfolio project demonstrating the application
 
 Areas of interest include healthcare analytics, business intelligence, research analytics, and decision support.
 
-- GitHub: [Insert your GitHub profile URL]
+- GitHub: [https://github.com/iamBernardMuoneme]
 - LinkedIn: [www.linkedin.com/in/bernardmuoneme]
 
 
