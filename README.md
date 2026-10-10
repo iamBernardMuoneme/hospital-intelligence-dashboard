@@ -39,8 +39,6 @@ The demonstration scenario includes the following headline figures:
 | Collection rate | 69% |
 | Average patient waiting time | 64 minutes |
 
-*Data note: These figures are presented for portfolio demonstration. They should not be interpreted as independently verified results from a named hospital. KPI definitions and denominators should be confirmed against the workbook.*
-
 ## Analytical Focus
 
 ### Financial Performance
